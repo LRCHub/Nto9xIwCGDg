@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "眠れない夜を君に",
+  "base_artist": "あたらよ",
+  "createdAt": "2026-01-02T07:19:44.201450Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "眠れない夜を君に",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/01_眠れない夜を君に_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あたらよ - 眠れない夜を君に(Lyric video)",
+      "artist": "ATARAYO",
+      "has_synced": false,
+      "path": "select/02_あたらよ_-_眠れない夜を君に(Lyric_video)_ATARAYO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "眠れない夜を君に",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/03_眠れない夜を君に_あたらよ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "眠れない夜を君に",
+      "artist": "ATARAYO (あたらよ)",
+      "has_synced": false,
+      "path": "select/04_眠れない夜を君に_ATARAYO_(あたらよ).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "眠れない夜を君に",
+      "artist": "あたらよ",
+      "has_synced": false,
+      "path": "select/pl_01_眠れない夜を君に_あたらよ.txt"
+    }
+  ]
+}
